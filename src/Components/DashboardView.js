@@ -29,8 +29,8 @@ const DashboardView = () => {
           onClick={showDropDown}
         >
           <p>Sakuni Akela</p>
-          <div className="h-[50px] w-[50px] rounded-full bg-[#4E73DF] cursor-pointer flex items-center justify-center relative">
-            <div className="h-[45px] w-[45px] ">
+          <div className="h-[50px] w-[50px] rounded-full bg-[#ffffff] cursor-pointer flex items-center justify-center relative">
+            <div className="h-[40px] w-[40px] ">
               <img src={profile} className="rounded-full" alt="" />
             </div>
           </div>
