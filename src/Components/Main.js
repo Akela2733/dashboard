@@ -110,7 +110,7 @@ const Main = () => {
               EARNINGS (MONTHLY)
             </h2>
             <h1 className="text-[20px] leading-[24px] font-bold text-[#5a5c69] mt-[5px]">
-              $40,000
+              $80,000
             </h1>
           </div>
           <FaRegCalendarMinus />
