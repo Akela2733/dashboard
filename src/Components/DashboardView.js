@@ -28,7 +28,7 @@ const DashboardView = () => {
           className="flex items-center gap-[15px] relative"
           onClick={showDropDown}
         >
-          <p>Dougles Mcgee</p>
+          <p>Sakuni Akela</p>
           <div className="h-[50px] w-[50px] rounded-full bg-[#4E73DF] cursor-pointer flex items-center justify-center relative">
             <div className="h-[45px] w-[45px] ">
               <img src={profile} className="rounded-full" alt="" />
